@@ -1,0 +1,21 @@
+img {
+    border-radius: 50%;
+}
+
+p.email {
+    padding-top: 10px;
+}
+
+h4 {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+h5 {
+    margin-top: 3px;
+}
+
+hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
