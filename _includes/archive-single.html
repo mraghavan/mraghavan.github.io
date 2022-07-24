@@ -1,0 +1,71 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+
+<div class="{{ include.type | default: "list" }}__item">
+    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if include.type == "grid" and teaser %}
+        <div class="archive__item-teaser">
+            <img src=
+                 {% if teaser contains "://" %}
+                                        "{{ teaser }}"
+                 {% else %}
+                 "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+                 {% endif %}
+                 alt="">
+        </div>
+        {% endif %}
+
+        <h3 class="archive__item-title" itemprop="headline">
+            {% if post.link %}
+            <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+            {% else %}
+            <a href="{{ post.paperurl }}" rel="permalink">{{ title }}</a>
+            {% endif %}
+        </h3>
+
+        {% if post.collection == 'teaching' %}
+        {{ post.venue }}, {{ post.semester }}
+        {% elsif post.collection == 'publications' %}
+            {% if post.venuetype == 'conference' %}
+            {{ post.authors }}. <a href="{{ post.venueurl }}">{{ post.venue }}</a>
+            {% elsif post.venuetype == 'journal' %}
+            {{ post.authors }}. <a href="{{ post.venueurl }}">{{ post.venue }}</a>, {{ post.date | default: "1900-01-01" | date: "%B %Y" }}
+            {% endif %}
+        {% else %}
+            {% if post.venue %}
+            {{ post.authors }}. {{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+            {% else %}
+            {{ post.authors }}. {{ post.date | default: "1900-01-01" | date: "%Y" }}
+            {% endif %}
+        {% endif %}
+
+        {% if post.video %}
+        {% if post.videoname %}
+        {% assign videoname = post.videoname %}
+        {% else %}
+        {% assign videoname = 'video' %}
+        {% endif %}
+        [<a href="{{ post.video }}">{{ videoname }}</a>]
+        {% endif %}
+
+        {% if post.excerpt %}
+        <br/>
+        <span class=medium>{{ post.excerpt }}</span>
+        {% endif %}
+
+    </article>
+</div>
+
+<hr class="narrow">

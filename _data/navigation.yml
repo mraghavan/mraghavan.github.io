@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Selected Talks + Workshops"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
+
+  - title: "Other Writing"
+    url: /other-writing/
