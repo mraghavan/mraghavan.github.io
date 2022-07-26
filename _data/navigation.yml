@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
   - title: "Publications"
     url: /publications/
@@ -11,3 +11,6 @@ main:
 
   - title: "Other Writing"
     url: /other-writing/
+
+  - title: "Awards and Honors"
+    url: /awards/

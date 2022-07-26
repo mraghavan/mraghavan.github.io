@@ -181,6 +181,9 @@ collections:
   talks:
     output: false
     permalink: /:collection/:path/
+  awards:
+    output: false
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -225,6 +228,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: false
+  # _talks
+  - scope:
+      path: ""
+      type: awards
+    values:
+      layout: single
       author_profile: true
       share: false
 
