@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Selected Talks + Workshops"
+  - title: "Selected Talks"
     url: /talks/    
 
   - title: "Teaching"
@@ -12,5 +12,5 @@ main:
   - title: "Other Writing"
     url: /other-writing/
 
-  - title: "Awards and Honors"
+  - title: "Awards"
     url: /awards/
