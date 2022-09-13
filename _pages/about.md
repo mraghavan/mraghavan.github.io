@@ -41,4 +41,5 @@ for Cornell <a href="https://cornellmundialfc.weebly.com/">Mundial FC</a> and UC
 
 Current students
 ======
-<a href="https://johnchrishays.com/">Chris Hays</a>, Rohan Alur
+<a href="https://johnchrishays.com/">Chris Hays</a>,
+<a href="https://sites.google.com/view/rohanalur">Rohan Alur</a>
