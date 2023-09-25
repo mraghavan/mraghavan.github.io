@@ -36,10 +36,11 @@ Practice</a> initiative.
 I'm also on the International Advisory Board of <a href="https://saiuniversity.edu.in">Sai University</a> in Chennai.
 I coach the <a href="https://thehub.college.harvard.edu/organization/harvard-men-s-soccer-club">Harvard Men's Soccer Club</a>.
 In the past, I played club soccer for
-for Cornell <a href="https://cornellmundialfc.weebly.com/">Mundial FC</a> and UC Berkeley Men's Club Soccer.
+for Cornell <a href="https://cornellmundialfc.weebly.com/">Mundial FC</a> and UC Berkeley Men's Club Soccer. I currently coach the Harvard Men's Soccer Club.
 </p>
 
 Current students
 ======
 <a href="https://johnchrishays.com/">Chris Hays</a>,
-<a href="https://sites.google.com/view/rohanalur">Rohan Alur</a>
+<a href="https://sites.google.com/view/rohanalur">Rohan Alur</a>,
+Nathanael Jo
