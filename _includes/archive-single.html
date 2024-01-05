@@ -42,7 +42,9 @@
         {% if post.collection == 'teaching' %}
         {{ post.venue }}, {{ post.semester }}
         {% elsif post.collection == 'publications' %}
-            {% if post.venuetype == 'conference' %}
+            {% if post.venueurl == nil %}
+            {{ post.authors }}. <a href="{{ post.paperurl }}">{{ post.venue }}</a>
+            {% elsif post.venuetype == 'conference' %}
             {{ post.authors }}. <a href="{{ post.venueurl }}">{{ post.venue }}</a>
             {% elsif post.venuetype == 'journal' %}
             {{ post.authors }}. <a href="{{ post.venueurl }}">{{ post.venue }}</a>, {{ post.date | default: "1900-01-01" | date: "%B %Y" }}
