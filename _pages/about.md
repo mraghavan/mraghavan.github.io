@@ -38,4 +38,4 @@ Current students
 ======
 <a href="https://johnchrishays.com/">Chris Hays</a>,
 <a href="https://sites.google.com/view/rohanalur">Rohan Alur</a>,
-Nathanael Jo
+<a href="https://nathanaj99.github.io/">Nathanael Jo</a>
