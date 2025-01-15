@@ -39,3 +39,7 @@ Current students
 <a href="https://johnchrishays.com/">Chris Hays</a>,
 <a href="https://sites.google.com/view/rohanalur">Rohan Alur</a>,
 <a href="https://nathanaj99.github.io/">Nathanael Jo</a>
+
+Postdoc
+======
+<a href="https://www.katedonahue.me/">Kate Donahue</a>
