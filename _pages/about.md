@@ -36,9 +36,10 @@ I coach the <a href="https://thehub.college.harvard.edu/organization/harvard-men
 
 Current students
 ======
-<a href="https://johnchrishays.com/">Chris Hays</a>,
-<a href="https://sites.google.com/view/rohanalur">Rohan Alur</a>,
-<a href="https://nathanaj99.github.io/">Nathanael Jo</a>
+<a href="https://sites.google.com/view/rohanalur">Rohan Alur</a> (EECS),
+<a href="https://johnchrishays.com/">Chris Hays</a> (IDSS),
+<a href="https://nathanaj99.github.io/">Nathanael Jo</a> (EECS),
+<a href="https://charlotteispark.github.io/">Charlotte Park</a> (EECS)
 
 Postdoc
 ======
