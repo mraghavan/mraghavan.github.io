@@ -43,5 +43,5 @@ Current students
 
 Postdoc
 ======
-<a href="https://www.katedonahue.me/">Kate Donahue</a>
+<a href="https://www.katedonahue.me/">Kate Donahue</a>,
 <a href="https://www.zive.info/">Ziv Epstein</a>
