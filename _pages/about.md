@@ -39,6 +39,7 @@ Current students
 <a href="https://sites.google.com/view/rohanalur">Rohan Alur</a> (EECS),
 <a href="https://johnchrishays.com/">Chris Hays</a> (IDSS),
 <a href="https://nathanaj99.github.io/">Nathanael Jo</a> (EECS),
+Rachel Li (EECS),
 <a href="https://charlotteispark.github.io/">Charlotte Park</a> (EECS)
 
 Postdoc
