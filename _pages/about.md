@@ -42,7 +42,7 @@ Current students
 Rachel Li (EECS),
 <a href="https://charlotteispark.github.io/">Charlotte Park</a> (EECS)
 
-Postdoc
+Postdocs
 ======
 <a href="https://www.katedonahue.me/">Kate Donahue</a>,
 <a href="https://www.zive.info/">Ziv Epstein</a>
