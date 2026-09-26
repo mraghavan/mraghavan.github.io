@@ -45,5 +45,5 @@ Current and former Ph.D. students
 
 Current and former postdocs
 ======
-<a href="https://www.zive.info/">Ziv Epstein</a>
+<a href="https://www.zive.info/">Ziv Epstein</a>,
 <a href="https://www.katedonahue.me/">Kate Donahue</a> <small>(2026)</small>
