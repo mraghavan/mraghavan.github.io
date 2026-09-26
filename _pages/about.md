@@ -34,15 +34,16 @@ I'm also on the International Advisory Board of <a href="https://saiuniversity.e
 I coach the <a href="https://thehub.college.harvard.edu/organization/harvard-men-s-soccer-club">Harvard Men's Soccer Club</a>.
 </p>
 
-Current students
+Current and former Ph.D. students
 ======
-<a href="https://sites.google.com/view/rohanalur">Rohan Alur</a> (EECS),
-<a href="https://johnchrishays.com/">Chris Hays</a> (IDSS),
-<a href="https://nathanaj99.github.io/">Nathanael Jo</a> (EECS),
-Rachel Li (EECS),
-<a href="https://charlotteispark.github.io/">Charlotte Park</a> (EECS)
+<a href="https://nathanaj99.github.io/">Nathanael Jo</a> <small>(co-adv. with Ashia Wilson)</small>,
+<a href="https://rachelli2019.github.io/">Rachel Li</a>,
+<a href="https://amaheshwari.com/">Arya Maheshwari</a> <small>(co-adv. with Costis Daskalakis)</small>,
+<a href="https://charlotteispark.github.io/">Charlotte Park</a> <small>(co-adv. with Ashia Wilson)</small>,
+<a href="https://johnchrishays.com/">Chris Hays</a> <small>(2026)</small>,
+<a href="https://sites.google.com/view/rohanalur">Rohan Alur</a> <small>(2026; co-adv. with Devavrat Shah)</small>
 
-Postdocs
+Current and former postdocs
 ======
-<a href="https://www.katedonahue.me/">Kate Donahue</a>,
 <a href="https://www.zive.info/">Ziv Epstein</a>
+<a href="https://www.katedonahue.me/">Kate Donahue</a> <small>(2026)</small>
